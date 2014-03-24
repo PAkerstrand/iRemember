@@ -1,0 +1,6 @@
+#iRemember
+iRemember captures the stories of your life, connects them to the places where they happened, and lets others see locations in a new way -- through your eyes.
+
+With iRemember, users capture their stories in a variety of media: text, audio, photos or video. After capturing the story, the app allows users to give it a title and to annotate it with text and location information. For example, a graduating University of Maryland student might use iRemember to capture stories of a classroom in which they learned something very important to them, the library where they met their future spouse, an auditorium in which they heard an important speech, a laboratory in which they made an important discovery.
+
+As more and more people tell and share their stories, the set of stories will become interesting and useful to other people as well. For example, first-time visitors to the University of Maryland could use iRemember to search for and replay the stories of others, seeing the campus through the eyes, hearts and minds of those whose lives were changed by the time they spent there.
